@@ -1,4 +1,4 @@
-# CS305Mod5
+# Raytracer
 
 ## Table of Contents
 - Introduction
